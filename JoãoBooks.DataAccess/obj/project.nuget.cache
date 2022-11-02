@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPtQAuF5oHCABF0Eg4sehMjAJgFiK29PDNV5lGUnoctwTpNNRjsXHVfKozECqcDEOVaU2BpN5c/Q92jizvUZsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
