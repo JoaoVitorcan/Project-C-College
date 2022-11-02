@@ -1857,6 +1857,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "JoãoBooks.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11"
+        },
+        "compile": {
+          "bin/placeholder/JoãoBooks.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JoãoBooks.DataAccess.dll": {}
+        }
+      },
+      "JoãoBooks.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JoãoBooks.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JoãoBooks.Models.dll": {}
+        }
       }
     }
   },
@@ -6707,10 +6732,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "JoãoBooks.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../JoãoBooks.DataAccess/JoãoBooks.DataAccess.csproj",
+      "msbuildProject": "../JoãoBooks.DataAccess/JoãoBooks.DataAccess.csproj"
+    },
+    "JoãoBooks.Models/1.0.0": {
+      "type": "project",
+      "path": "../JoãoBooks.Models/JoãoBooks.Models.csproj",
+      "msbuildProject": "../JoãoBooks.Models/JoãoBooks.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "JoãoBooks.DataAccess >= 1.0.0",
+      "JoãoBooks.Models >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.11",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.11",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.11",
@@ -6750,7 +6787,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj"
+            },
+            "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
