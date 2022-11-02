@@ -376,8 +376,6 @@ C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\JoãoBookStore.TagHelpers.output.cache
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\JoãoBookStore.RazorCoreGenerate.cache
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -442,3 +440,11 @@ C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\bin\Debug
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\bin\Debug\net5.0\JoãoBooks.Utility.dll
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\bin\Debug\net5.0\JoãoBooks.Utility.pdb
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Customers\Views\Home\Index.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Customers\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Customers\Views\_ViewImports.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Customers\Views\_ViewStart.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBookStore\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs

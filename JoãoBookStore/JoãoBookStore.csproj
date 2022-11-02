@@ -19,13 +19,11 @@
   <ItemGroup>
     <ProjectReference Include="..\JoãoBooks.DataAccess\JoãoBooks.DataAccess.csproj" />
     <ProjectReference Include="..\JoãoBooks.Models\JoãoBooks.Models.csproj" />
+    <ProjectReference Include="..\JoãoBooks.Utility\JoãoBooks.Utility.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Customers\Controllers\" />
-    <Folder Include="Areas\Customers\Data\" />
-    <Folder Include="Areas\Customers\Models\" />
-    <Folder Include="Areas\Customers\Views\" />
+    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>
