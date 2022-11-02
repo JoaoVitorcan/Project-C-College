@@ -1,4 +1,5 @@
 ﻿using JoãoBookStore.Models;
+using JoãoBookStore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

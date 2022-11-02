@@ -1545,6 +1545,26 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "JoãoBooks.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JoãoBooks.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JoãoBooks.Models.dll": {}
+        }
+      },
+      "JoãoBooks.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/JoãoBooks.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JoãoBooks.Utility.dll": {}
+        }
       }
     }
   },
@@ -5850,10 +5870,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "JoãoBooks.Models/1.0.0": {
+      "type": "project",
+      "path": "../JoãoBooks.Models/JoãoBooks.Models.csproj",
+      "msbuildProject": "../JoãoBooks.Models/JoãoBooks.Models.csproj"
+    },
+    "JoãoBooks.Utility/1.0.0": {
+      "type": "project",
+      "path": "../JoãoBooks.Utility/JoãoBooks.Utility.csproj",
+      "msbuildProject": "../JoãoBooks.Utility/JoãoBooks.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "JoãoBooks.Models >= 1.0.0",
+      "JoãoBooks.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.2",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.11"
@@ -5890,7 +5922,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
+            },
+            "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\Desktop\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
