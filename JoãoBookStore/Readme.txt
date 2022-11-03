@@ -25,6 +25,9 @@ I added NugetPackages as said in the instructions.
 12:00
 I deleted Class1
 
+12:02
+I had a problem istalling packages 
+
 12:05
 I renamed models folder to view models
 
