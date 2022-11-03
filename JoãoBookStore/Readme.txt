@@ -57,4 +57,4 @@ Finished part 1 of Assignment 2.
 
 2022-03-2022
 11:00
-I had a problem with the commits, because I did the assgnment on my laptop, and accidently all commits disappeared.To solve my problem I commit everything and works.
+I had a problem with the commits, because I did the assgnment on my laptop, and accidently all commits disappeared.To solve my problem I commit everything and worked.
