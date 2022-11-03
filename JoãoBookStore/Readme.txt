@@ -26,7 +26,7 @@ I added NugetPackages as said in the instructions.
 I deleted Class1
 
 12:02
-I had a problem istalling packages 
+I had a problem istalling packages, and to solve this I changed the version.
 
 12:05
 I renamed models folder to view models
@@ -54,3 +54,7 @@ I tested and everything works good...!
 
 1:10
 Finished part 1 of Assignment 2.
+
+2022-03-2022
+11:00
+I had a problem with the commits, because I did the assgnment on my laptop, and accidently all commits disappeared.To solve my problem I commit everything and works.
