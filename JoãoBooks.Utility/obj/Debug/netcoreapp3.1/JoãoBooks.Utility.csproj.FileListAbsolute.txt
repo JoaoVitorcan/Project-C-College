@@ -8,3 +8,13 @@ C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\D
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.csproj.CoreCompileInputs.cache
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.dll
 C:\Users\joaoe\Desktop\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.pdb
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\bin\Debug\netcoreapp3.1\JoãoBooks.Utility.deps.json
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\bin\Debug\netcoreapp3.1\JoãoBooks.Utility.dll
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\bin\Debug\netcoreapp3.1\JoãoBooks.Utility.pdb
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.AssemblyInfo.cs
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.dll
+C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Utility\obj\Debug\netcoreapp3.1\JoãoBooks.Utility.pdb

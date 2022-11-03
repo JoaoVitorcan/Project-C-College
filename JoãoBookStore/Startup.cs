@@ -32,7 +32,7 @@ namespace JoãoBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
-            services.AddDefaultIdentity<IdentityUser>()
+            services.AddDefaultIdentity<IdentityUser>()         //deleted what was inside
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
