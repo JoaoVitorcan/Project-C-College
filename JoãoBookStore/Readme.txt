@@ -8,7 +8,7 @@ Setted the project to use bootstrap
 I choose darkly template, dowloaded it and replaced it.
 
 10:35
-I remove text-dark
+I removed text-dark
 
 10:45
 I added dropdown menu and 3 libraries
