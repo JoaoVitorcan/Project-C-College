@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {}
+    "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {
+    "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj",
         "projectName": "JoãoBooks.DataAccess",
-        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj",
+        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj",
         "packagesPath": "C:\\Users\\W0779042\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,11 +33,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
-                "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
+              "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
               },
-              "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
-                "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj"
+              "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj"
               }
             }
           }
@@ -54,15 +54,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[3.1.29, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[3.1.29, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[3.1.29, )"
             }
           },
           "imports": [
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+    "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
         "projectName": "JoãoBooks.Models",
-        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
+        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
         "packagesPath": "C:\\Users\\W0779042\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
+    "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
         "projectName": "JoãoBooks.Utility",
-        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\W0779042\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

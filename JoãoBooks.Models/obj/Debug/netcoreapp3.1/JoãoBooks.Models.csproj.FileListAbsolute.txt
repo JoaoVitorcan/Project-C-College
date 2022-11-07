@@ -18,3 +18,13 @@ C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\Jo�
 C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.csproj.CoreCompileInputs.cache
 C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.dll
 C:\Users\W0779042\Source\Repos\JoaoVitorcan\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.pdb
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\bin\Debug\netcoreapp3.1\JoãoBooks.Models.deps.json
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\bin\Debug\netcoreapp3.1\JoãoBooks.Models.dll
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\bin\Debug\netcoreapp3.1\JoãoBooks.Models.pdb
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.csproj.AssemblyReference.cache
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.AssemblyInfoInputs.cache
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.AssemblyInfo.cs
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.dll
+C:\Users\W0779042\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.Models\obj\Debug\netcoreapp3.1\JoãoBooks.Models.pdb

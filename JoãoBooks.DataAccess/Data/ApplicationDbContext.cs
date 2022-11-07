@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using JoãoBooks.Models;
 
 namespace JoãoBookStore.DataAccess.Data
 {
@@ -11,6 +12,8 @@ namespace JoãoBookStore.DataAccess.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+
         }
+        public DbSet<Category> Categories { get; set; }
     }
 }

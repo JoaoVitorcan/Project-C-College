@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
       "projectName": "JoãoBooks.Utility",
-      "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+      "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
       "packagesPath": "C:\\Users\\W0779042\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\JoaoVitorcan\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
+      "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

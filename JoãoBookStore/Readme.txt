@@ -58,3 +58,16 @@ Finished part 1 of Assignment 2.
 2022-03-2022
 11:00
 I had a problem with the commits, because I did the assgnment on my laptop, and accidently all commits disappeared.To solve my problem I commit everything and worked.
+
+
+2002-11-07  1750
+
+Updted all the packages to fit in the project.Before it was 5 version and now I updated the packages to 3.1.29 version.
+
+--Starting the project now, I tested and everithing is working.
+- add-migration AddDefaultIdentityMigration 
+--Updated database in the SQl server
+--added a new class file to the .Models.
+-- added new Item interface and created a interface item called IRepositoy.cs
+
+Modified Category class to use for CRUD
