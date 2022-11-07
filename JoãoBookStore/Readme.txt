@@ -70,4 +70,7 @@ Updted all the packages to fit in the project.Before it was 5 version and now I 
 --added a new class file to the .Models.
 -- added new Item interface and created a interface item called IRepositoy.cs
 
+1630
+
 Modified Category class to use for CRUD
+Created a repository class and modified the code to create the constructors and dependency injection(DI)
