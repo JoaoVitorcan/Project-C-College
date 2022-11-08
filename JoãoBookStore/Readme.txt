@@ -77,6 +77,20 @@ Created a repository class and modified the code to create the constructors and 
 Created individual repository for category and all potencial models to add in the future
 --CategoryRepository and ICategoryRepository
 Modified CategoryRepository and ICategoryRepository Interface
-
 Updated void method to retrieve the first or default category object and passed the id as a generic entity.
-Implemented a stored procedure repository
+
+2002-11-07  1920
+
+Implemented a stored procedure repositoryand map multiple repositories in a unit of Work
+added a new Interface called ISP_call.cs
+Installed NugGet package for Dapper.
+added new class called SP_Call.cs
+added a connection to the database
+uptaded the implementation of the ISP_Call interface and added using statement.
+
+
+
+2002-11-07  2030
+
+Added a new Interface IUnitOfWork to the IRepository folder
+Change the method to public to acess the class

@@ -12,6 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using JoãoBooks.DataAccess.Repository.IRepository;
+using JoãoBooks.DataAccess.Repository;
 
 namespace JoãoBookStore
 {
@@ -34,6 +36,7 @@ namespace JoãoBookStore
 
             services.AddDefaultIdentity<IdentityUser>()         //deleted what was inside
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
