@@ -100,7 +100,14 @@ Change the method to public to acess the class
 
 
 2002-11-08  1200
-Starting the project again...
+Starting the part 2 of the project...
 added a new mvc controller named CategoryController.cs inside Controllers folder.
 Modified the code inside CategoryController 
+added icons in the category section
+added the IAction result to the controller
+created a partial view for the edit
+created _CreateAndBackToListButton and added asp-action
+created _EditAndBackToListButton and added @model razor statement
+System.NotImplementedException error, I am having trouble solving this.
+
 
