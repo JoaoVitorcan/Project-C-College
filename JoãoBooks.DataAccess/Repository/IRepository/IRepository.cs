@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace JoãoBooks.DataAccess.Repository.IRepository
 {
-    interface IRepository<T> where T :class
+    public interface IRepository<T> where T :class
     {
         T Get(int id);
 

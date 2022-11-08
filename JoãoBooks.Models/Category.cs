@@ -7,7 +7,7 @@ namespace JoãoBooks.Models
     public class Category
     {
         [Key]
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         [Display(Name="Categroy Name")]
         [Required]
