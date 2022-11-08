@@ -72,6 +72,7 @@ Updted all the packages to fit in the project.Before it was 5 version and now I 
 --added a new class file to the .Models.
 -- added new Item interface and created a interface item called IRepositoy.cs
 
+
 2002-11-07  1830
 
 Modified Category class to use for CRUD
@@ -81,6 +82,7 @@ Created individual repository for category and all potencial models to add in th
 Modified CategoryRepository and ICategoryRepository Interface
 Updated void method to retrieve the first or default category object and passed the id as a generic entity.
 
+
 2002-11-07  1920
 
 Implemented a stored procedure repositoryand map multiple repositories in a unit of Work
@@ -89,7 +91,6 @@ Installed NugGet package for Dapper.
 added new class called SP_Call.cs
 added a connection to the database
 uptaded the implementation of the ISP_Call interface and added using statement.
-
 
 
 2002-11-07  2030
@@ -111,3 +112,10 @@ created _EditAndBackToListButton and added @model razor statement
 System.NotImplementedException error, I am having trouble solving this.
 
 
+2002-11-08  1700
+created an Upsert POST action
+added API call for HTTPDelete in the CategoryController.cs
+implemented HTTPDelete with a delete method in category.js
+added delete functionality in category.js with onclick
+added delete url function code
+I am sill have the error, I will try later how to figure out this
