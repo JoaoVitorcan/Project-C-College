@@ -66,6 +66,8 @@ Updted all the packages to fit in the project.Before it was 5 version and now I 
 
 --Starting the project now, I tested and everithing is working.
 - add-migration AddDefaultIdentityMigration 
+--file name = 202001107214434_AddDefaultidentityMigration.cs
+-- Added Category to database
 --Updated database in the SQl server
 --added a new class file to the .Models.
 -- added new Item interface and created a interface item called IRepositoy.cs
@@ -94,5 +96,11 @@ uptaded the implementation of the ISP_Call interface and added using statement.
 
 Added a new Interface IUnitOfWork to the IRepository folder
 Change the method to public to acess the class
-
 --Builded the project and everything is working
+
+
+2002-11-08  1200
+Starting the project again...
+added a new mvc controller named CategoryController.cs inside Controllers folder.
+Modified the code inside CategoryController 
+
