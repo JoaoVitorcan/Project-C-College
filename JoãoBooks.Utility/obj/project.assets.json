@@ -8,25 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\joaoe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\W0779042\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
       "projectName": "JoãoBooks.Utility",
-      "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
-      "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
+      "projectPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+      "packagesPath": "C:\\Users\\W0779042\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\W0779042\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\joaoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\W0779042\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,26 +62,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
