@@ -119,3 +119,8 @@ implemented HTTPDelete with a delete method in category.js
 added delete functionality in category.js with onclick
 added delete url function code
 I am sill have the error, I will try later how to figure out this
+
+
+2022-11-14 13000
+fixed the error by removing a parenteses in category.js and put letter D in capitalLetter
+in Index.cshtml in table id and was instantiated method loadDataTable in category.js file.
