@@ -9036,11 +9036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\JoãoBookStore.csproj",
+      "projectUniqueName": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\JoãoBookStore.csproj",
       "projectName": "JoãoBookStore",
-      "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\JoãoBookStore.csproj",
+      "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\JoãoBookStore.csproj",
       "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\obj\\",
+      "outputPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9061,14 +9061,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj"
+            "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.DataAccess\\JoãoBooks.DataAccess.csproj"
             },
-            "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
-              "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
+            "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj"
             },
-            "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
-              "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj"
+            "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
+              "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj"
             }
           }
         }

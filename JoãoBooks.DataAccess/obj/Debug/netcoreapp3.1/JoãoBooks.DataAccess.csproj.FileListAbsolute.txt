@@ -55,6 +55,5 @@ C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAcce
 C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.AssemblyInfoInputs.cache
 C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.AssemblyInfo.cs
 C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.csproj.CopyComplete
 C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.dll
 C:\Users\joaoe\Source\Repos\WEB452-22F-001002---Assignment-2\JoãoBooks.DataAccess\obj\Debug\netcoreapp3.1\JoãoBooks.DataAccess.pdb

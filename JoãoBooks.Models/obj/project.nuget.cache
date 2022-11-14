@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uuUWrstdDkX9lDQcsE9e6RLdDCG9tJQdWT1eG35zvdMu5EZFIhhoFiKO02Cv4AZl6RUitNxTw8X20aRo7OucjA==",
+  "dgSpecHash": "WyKEv5IyoY7YgduSoz1dY0IJcVY5Kwkp89gOGS9DFxqMUG3f2lMgYOMwVrRymZeuqM1B0QVxBaSvISDXmGlTkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
+  "projectFilePath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\joaoe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

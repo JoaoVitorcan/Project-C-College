@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {}
+    "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
+    "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
         "projectName": "JoãoBooks.Models",
-        "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
+        "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\JoãoBooks.Models.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {}
+    "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
+    "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
         "projectName": "JoãoBooks.Utility",
-        "projectPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\JoãoBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoe\\Source\\Repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\joaoe\\source\\repos\\WEB452-22F-001002---Assignment-2\\JoãoBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
