@@ -1,0 +1,39 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+namespace JoãoBooks.DataAccess.Migrations
+{
+    public partial class AddCoverTypeToDb : Migration
+    {
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.RenameColumn(
+                name: "ID",
+                table: "Categories",
+                newName: "Id");
+
+            migrationBuilder.CreateTable(
+                name: "CoverTypes",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(maxLength: 50, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CoverTypes", x => x.Id);
+                });
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropTable(
+                name: "CoverTypes");
+
+            migrationBuilder.RenameColumn(
+                name: "Id",
+                table: "Categories",
+                newName: "ID");
+        }
+    }
+}

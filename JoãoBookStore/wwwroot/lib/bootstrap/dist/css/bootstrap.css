@@ -1747,21 +1747,21 @@ progress {
   }
 }
 .table {
-  --bs-table-color: var(--bs-body-color);
-  --bs-table-bg: transparent;
-  --bs-table-border-color: #444;
-  --bs-table-accent-bg: transparent;
-  --bs-table-striped-color: var(--bs-body-color);
+    --bs-table-color: black;
+    --bs-table-bg: transparent;
+    --bs-table-border-color: black;
+    --bs-table-accent-bg: transparent;
+    --bs-table-striped-color: var(--bs-body-color);
   --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
-  --bs-table-active-color: var(--bs-body-color);
-  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
-  --bs-table-hover-color: var(--bs-body-color);
-  --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
-  width: 100%;
-  margin-bottom: 1rem;
-  color: var(--bs-table-color);
-  vertical-align: top;
-  border-color: var(--bs-table-border-color);
+    --bs-table-active-color: var(--bs-body-color);
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: var(--bs-body-color);
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    color: var(--bs-table-color);
+    vertical-align: top;
+    border-color: var(--bs-table-border-color);
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
@@ -1804,7 +1804,7 @@ progress {
 
 .table-striped > tbody > tr:nth-of-type(odd) > * {
   --bs-table-accent-bg: var(--bs-table-striped-bg);
-  color: var(--bs-table-striped-color);
+  color: black;
 }
 
 .table-striped-columns > :not(caption) > tr > :nth-child(even) {
@@ -1823,17 +1823,17 @@ progress {
 }
 
 .table-primary {
-  --bs-table-color: #fff;
-  --bs-table-bg: #375a7f;
-  --bs-table-border-color: #4b6b8c;
-  --bs-table-striped-bg: #416285;
+    --bs-table-color: #fff;
+    --bs-table-bg: #375a7f;
+    --bs-table-border-color: #4b6b8c;
+    --bs-table-striped-bg: #416285;
   --bs-table-striped-color: #fff;
-  --bs-table-active-bg: #4b6b8c;
-  --bs-table-active-color: #fff;
-  --bs-table-hover-bg: #466689;
-  --bs-table-hover-color: #fff;
-  color: var(--bs-table-color);
-  border-color: var(--bs-table-border-color);
+    --bs-table-active-bg: #4b6b8c;
+    --bs-table-active-color: #fff;
+    --bs-table-hover-bg: #466689;
+    --bs-table-hover-color: #fff;
+    color: var(--bs-table-color);
+    border-color: var(--bs-table-border-color);
 }
 
 .table-secondary {
