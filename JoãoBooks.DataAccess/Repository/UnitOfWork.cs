@@ -18,6 +18,7 @@ namespace JoãoBooks.DataAccess.Repository
             Category = new CategoryRepository(_db);
             SP_Call = new SP_Call(_db);
             CoverType = new CoverTypeRepository(_db);
+            Product = new ProductRepository(_db);
         }
         public ICategoryRepository Category { get; private set; }// throw new NotImplementedException();
 
@@ -26,12 +27,18 @@ namespace JoãoBooks.DataAccess.Repository
             get; private set; //throw new NotImplementedException();
         }
 
+        public ProductRepository Product { get; private set; }
+
         public ICoverTypeRepository CoverType
         {
             get; private set;
         }
 
+        
+
         public ICoverTypeRepository CoverTypeRePository => throw new NotImplementedException();
+
+        IProductRepository IUnitOfWork.Product => throw new NotImplementedException();
 
         public void Dispose()
         {
