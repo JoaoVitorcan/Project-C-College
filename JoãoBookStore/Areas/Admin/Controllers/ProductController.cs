@@ -28,7 +28,12 @@ namespace JoãoBookStore.Areas.Admin.Controllers
         {
             return View();
         }
-        public IActionResult PUpsert(int? id)
+
+
+
+
+
+        public IActionResult Upsert(int? id)
         {
             ProductVM productVM = new ProductVM()
             {
@@ -57,6 +62,23 @@ namespace JoãoBookStore.Areas.Admin.Controllers
             }
             return View(productVM);
         }
+
+
+        [HttpPost]
+        public IActionResult Upsert(ProductVM productVM)
+        {
+            _unitOfWork.Product.Add(productVM.Product);
+            _unitOfWork.Save();
+
+            return RedirectToAction("Index");
+        }
+
+
+
+
+
+
+
         #region API CALLS
 
         [HttpGet]
