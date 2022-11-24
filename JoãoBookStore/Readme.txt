@@ -128,6 +128,7 @@ in Index.cshtml in table id and was instantiated method loadDataTable in categor
                /////////////////////////////////////////////////////////////////////
 
 2022-11-21  1500
+Fixed the visual issue where I couldn't see the list of products in the table because it was too bright.
 Added CoverTypeRepository class 
 Added ICoverTypeRepository interface 
 Added CoverType to UnitOfWork and IUnitOfWork
