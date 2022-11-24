@@ -124,3 +124,60 @@ I am sill have the error, I will try later how to figure out this
 2022-11-14 13000
 fixed the error by removing a parenteses in category.js and put letter D in capitalLetter
 in Index.cshtml in table id and was instantiated method loadDataTable in category.js file.
+
+               /////////////////////////////////////////////////////////////////////
+
+2022-11-21  1500
+Added CoverTypeRepository class 
+Added ICoverTypeRepository interface 
+Added CoverType to UnitOfWork and IUnitOfWork
+Added migration
+updated database 
+Added file 20221121213144_AddCoverTypeToDb.cs
+
+
+2022-11-21  1620
+Added Cover Type to NavBar
+Add CoverType Controller with Action Methods
+Cover Type Index View to use DataTables
+Cover Type Upsert View takes care of creating and updating CoverType
+
+
+2022-11-21  1830
+Deleted CoverType is done using the API Call.
+Added a new class Product
+Added migration add-migration AddProductToDb
+Added file "20221122011802_AddProductToDb.cs"
+Updated the database
+Added the file name 20221122013256_AddValidationToProduct.cs
+
+
+2022-11-21  2110
+Added Product to the Repository
+Added IProductRepository Interface
+Added ProductRepository Class 
+Add Product to UnitOfWork and IUnitofWork
+I built and everything is working and I´m ready for next step...
+
+
+2022-11-22  1320
+Added ProductController.cs and ProductVM.cs class
+Modified the API call to include the Category and CoverType properites
+Added an Index view afor Product
+Copied the Index.cshtml code from Views/Category and modified to the Product List header. 
+Modified the _Layout.cshtml to add a new link to Product.
+Run the application and its working...
+
+
+2022-11-22  1930
+Created an Upsert.cs for Products 
+Added a rich textbox to the textarea inside Product
+Added a new folder and subfolder in wwwroot 
+Configured the Product Upsert Post action method.
+I have an error because when I clicked to add the product the page is not loading.
+I will try to fix this tomorrow.
+
+
+2022-11-23  1400
+After some revisions in the code I realized that I put an extra "T" in Upsert and that's why it wasn't working,
+after correcting that I managed to register the product and everything is working now...
