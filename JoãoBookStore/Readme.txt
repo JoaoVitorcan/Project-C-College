@@ -182,3 +182,31 @@ I will try to fix this tomorrow.
 2022-11-23  1400
 After some revisions in the code I realized that I put an extra "T" in Upsert and that's why it wasn't working,
 after correcting that I managed to register the product and everything is working now...
+
+                /////////////////////////////////////////////////////////////////////
+
+Starting part 4 of the assignment...
+
+2022-11-29 13000
+
+Updated database 
+Added 3 properties of price in Product.cs
+[Range(1, 10000)]                   [Range(1, 10000)]                          [Range(1, 10000)]
+public double Price { get; set; }	public double Price50 { get; set; }        public double Price100 { get; set; }
+Added migration
+Added file 2022112013256_AddNewValidationToProduct.cs
+
+2022-11-29 1530
+
+Added 3 more properties in ProductRepository.cs (objFromDb.Price,objFromDb.Price50 and objFromDb.Price100)
+Added 5 more access modifiers in Utility/SD.cs (public const string Proc_CoverType_Create,public const string Proc_CoverType_Get
+public const string Proc_CoverType_GetAll,public const string Proc_CoverType_Update,public const string Proc_CoverType_Delete)
+Added fields for Upsert.cshtml (<input asp-for="Product.Price" class="form-control" />,<input asp-for="Product.Price50" class="form-control" /> and
+<input asp-for="Product.Price100" class="form-control" />)
+
+
+2022-11-29 2030
+Added images in images folder
+Added the product
+I tested and everything is working... I was added the images without error
+
