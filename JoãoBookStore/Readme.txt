@@ -208,5 +208,5 @@ Added fields for Upsert.cshtml (<input asp-for="Product.Price" class="form-contr
 2022-11-29 2030
 Added images in images folder
 Added the product
-I tested and everything is working... I was added the images without error
+I tested and everything is working... I added the products without error
 
